@@ -1,0 +1,15 @@
+{
+  "name": "unnamed-01",
+  "version": "1.0.0",
+  "description": "A library to create an object and track its changes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "vishaljoshy18",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
